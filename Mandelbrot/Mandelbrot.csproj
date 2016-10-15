@@ -27,7 +27,10 @@
     <Content Include="web.config" />
   </ItemGroup>
   <ItemGroup>
-    <TypeScriptCompile Include="TypeScript\Main.ts" />
+    <TypeScriptCompile Include="TypeScript\class_MutableImage.ts" />
+    <TypeScriptCompile Include="TypeScript\class_Mandelbrot.ts" />
+    <TypeScriptCompile Include="TypeScript\class_Util.ts" />
+    <TypeScriptCompile Include="TypeScript\class_Main.ts" />
   </ItemGroup>
   <ItemGroup>
     <None Include="web.Debug.config">
